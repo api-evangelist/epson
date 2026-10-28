@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Epson is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://epson.com/
+Epson is a global technology company that designs and manufactures imaging, printing, and visual communication products. It serves consumers, businesses, and industrial markets with printers, scanners, projectors, and industrial automation solutions. The company emphasizes innovation, sustainability, and a broad international presence across many regions.
+
+**Areas:** Company · Printing · Imaging · Automation · Hardware · Consumer
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://epson.com/)
+- [Documentation](https://developer.cp.epson.com/)
+- [Blog](https://blog.epson.com/)
+- [Terms of service](https://epson.com/terms-of-use)
+- [Privacy policy](https://epson.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/epson/](https://apis.io/providers/epson/).
